@@ -8,7 +8,7 @@
 
 &emsp; Para montar o circuito deve-se utilizar um arduino uno junto com 3 LEDs e 3 resistores de 330 ohms. Para realizar o circuito siga os seguintes passos:
 
-- Conecte o arduino uno no computador e envie o código ao microcontrolador.
+- Conecte o arduino uno no computador e envie o código ao microcontrolador, disponível em [src.ino](src.ino).
 - Monte o circuito, dedicando a porta 7 para o led verde, a porta 9 para o amarelo e a porta 8 para o vermelho.
 - Depois coloque um resistor de 330 ohms em série para cada um dos leds.
 
